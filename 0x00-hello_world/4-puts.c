@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: DAGMAWI
+ * Auth: Dagmawi
  */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Auth: DAGMAWI
+ * Auth: Dagmawi
  */
 
 #include <stdio.h>

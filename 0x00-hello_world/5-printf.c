@@ -1,6 +1,6 @@
 /*
  * File: 5-printf.c
- * Auth: DAGMAWI
+ * Auth: Dagmawi
  */
 
 #include <stdio.h>
