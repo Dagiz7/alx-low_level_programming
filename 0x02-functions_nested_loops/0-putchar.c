@@ -1,6 +1,6 @@
 /*
  * File: 0-putchar.c
- * Auth: DAGMAWI
+ * Auth: Ephrem Abebe
  *
  */
 
