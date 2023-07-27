@@ -1,6 +1,6 @@
 /*
  * File: 0-strcat.c
- * Auth: Ephrem Abebe
+ * Auth: DAGMAWI
  */
 
 #include "main.h"
