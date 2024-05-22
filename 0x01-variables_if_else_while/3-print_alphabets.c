@@ -1,6 +1,6 @@
 /*
  * File: 3-print_alphabets.c
- * Auth: DAGMAWI
+ * Auth: Ephrem Abebe
  */
 
 #include <stdio.h>

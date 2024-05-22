@@ -1,6 +1,6 @@
 /*
  * File: 5-print_numbers.c
- * Auth: DAGMAWI
+ * Auth: Ephrem Abebe
  */
 
 #include <stdio.h>

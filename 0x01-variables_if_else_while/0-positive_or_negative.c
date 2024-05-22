@@ -1,6 +1,6 @@
 /*
  * File: 0-positive_or_negative.c
- * Auth: DAGMAWI
+ * Auth: Ephrem Abebe
  */
 
 #include <stdlib.h>

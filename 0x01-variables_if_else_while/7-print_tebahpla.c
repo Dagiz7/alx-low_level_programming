@@ -1,6 +1,6 @@
 /*
  * File: 7-print_tebahpla.c
- * Auth: DAGMAWI
+ * Auth: Ephrem Abebe
  */
 
 #include <stdio.h>

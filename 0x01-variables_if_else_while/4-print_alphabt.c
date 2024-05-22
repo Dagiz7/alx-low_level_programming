@@ -1,6 +1,6 @@
 /*
  * File: 4-print_alphabt.c
- * Auth: DAGMAWI
+ * Auth: Ephrem Abebe
  */
 
 #include <stdio.h>
